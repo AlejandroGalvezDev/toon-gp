@@ -1,0 +1,13 @@
+# Captura de depuración, no forma parte del juego
+no-curvas.png
+
+# SO / editores
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Logs y temporales
+*.log
+*.tmp
+node_modules/
